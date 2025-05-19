@@ -3,10 +3,10 @@
 This project is a comprehensive Business Intelligence (BI) analysis of IKEA's performance, focusing on sales, inventory, and customer preferences. The goal is to uncover trends and correlations to enhance operational performance and strategic decision-making. The project follows a structured approach, from data collection to visualization, and provides actionable insights for IKEA.
 
 🛠️ 𝗧𝗼𝗼𝗹𝘀 & 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀 𝗨𝘀𝗲𝗱
-Data Processing: Python (Pandas)
-Database: MySQL
-Data Visualization: Power BI
-Schema Design: Snowflake Schema (Fact and Dimension Tables)
+* Data Processing: Python (Pandas)
+* Database: MySQL
+* Data Visualization: Power BI
+* Schema Design: Snowflake Schema (Fact and Dimension Tables)
 
 📂 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲
 The project is divided into four main phases:
